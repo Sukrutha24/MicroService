@@ -1,0 +1,8 @@
+eureka:
+  instance:
+    instance-id: ${string.application.name}:${random.value}
+  client:    service-url:      defaultZone: http://localhost:5001/eureka
+  
+server:  port: 0
+
+    

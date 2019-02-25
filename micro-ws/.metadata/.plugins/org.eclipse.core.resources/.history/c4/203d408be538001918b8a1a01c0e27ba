@@ -1,0 +1,4 @@
+spring.application.name=verb
+server.port=0
+eureka.instance.instance-id= ${spring.application.name}:${random.value}
+spring.cloud.config.uri=https://localhost:8585

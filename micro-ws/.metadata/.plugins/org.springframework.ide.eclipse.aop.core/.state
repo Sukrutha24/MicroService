@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="07-03-gateway-zuul-solution"/>
+<aop-project name="10-product-service"/>
+<aop-project name="10-shipment-service"/>
+<aop-project name="05-01-quotes-service-solution"/>
+<aop-project name="07-04-portfolio-service-start"/>
+<aop-project name="06-01-quotes-service-solution"/>
+<aop-project name="05-03-hystrix-dashboard"/>
+<aop-project name="10-payment-service"/>
+<aop-project name="08-02-spring-cloud-config-client-solution"/>
+<aop-project name="08-01-spring-cloud-config-server-start"/>
+<aop-project name="07-04-portfolio-service-solution"/>
+<aop-project name="07-01-accounts-service-solution"/>
+<aop-project name="06-02-portfolio-service-solution"/>
+<aop-project name="07-02-quotes-service-solution"/>
+<aop-project name="02-01-eureka-server-start"/>
+<aop-project name="06-02-portfolio-service-start"/>
+<aop-project name="05-02-portfolio-service-start"/>
+<aop-project name="05-02-portfolio-service-solution"/>
+<aop-project name="08-01-spring-cloud-config-server-solution"/>
+<aop-project name="10-order-service"/>
+<aop-project name="07-03-gateway-zuul-start"/>
+</aop-reference-model>
